@@ -1,0 +1,6 @@
+exportPattern("^[[:alpha:]]+")
+importFrom("stats", "predict")
+import("e1071","earth")
+
+
+
